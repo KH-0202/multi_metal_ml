@@ -24,5 +24,13 @@ How to run an example (requires .csv files):
 pip install -e .
 python examples/example_run.py
 ```
+
+## Testing suite
+How to run testing suite
+```bash
+cd tests
+pytest
+```
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
