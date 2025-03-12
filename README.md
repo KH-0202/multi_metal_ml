@@ -9,7 +9,7 @@ This package applies machine learning to optimize multi-metal additive manufactu
 - Support for user-defined microstructure phases.
 
 ## Installation
-Clone the repository and install dependencies:
+Clone the repository, create a virtual environment, and install dependencies:
 ```bash
 git clone https://github.com/yourusername/multi_metal_ml.git
 cd multi_metal_ml
