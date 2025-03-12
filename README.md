@@ -13,6 +13,8 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/yourusername/multi_metal_ml.git
 cd multi_metal_ml
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 
 ## License
