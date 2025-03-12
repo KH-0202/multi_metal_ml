@@ -23,6 +23,6 @@ How to run an example (requires .csv files):
 ```bash
 pip install -e .
 python examples/example_run.py
-
+```
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
