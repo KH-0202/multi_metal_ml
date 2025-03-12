@@ -16,6 +16,7 @@ cd multi_metal_ml
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 ## Example
 How to run an example (requires .csv files):
