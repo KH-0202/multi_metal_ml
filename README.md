@@ -4,7 +4,7 @@
 This package applies machine learning to optimize multi-metal additive manufacturing processes.
 
 ## Features
-- Train models using thermal history data.
+- Train models using thermal history data in the form of .csv files.
 - Predict microstructure evolution.
 - Support for user-defined microstructure phases.
 
