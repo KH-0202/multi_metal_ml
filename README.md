@@ -34,3 +34,15 @@ pytest
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## Citation
+@software{reback2020pandas,
+    author = {The pandas development team},
+    title = {pandas-dev/pandas: Pandas},
+    month = feb,
+    year = 2020,
+    publisher = {Zenodo},
+    version = {<insert version number>},
+    doi = {10.5281/zenodo.<insert DOI number>},
+    url = {https://doi.org/10.5281/zenodo.<insert DOI number>}
+}
